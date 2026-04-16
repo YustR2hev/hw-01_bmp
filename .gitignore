@@ -1,2 +1,4 @@
 obj/
 hw-01_bmp
+*.o
+output/
